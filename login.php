@@ -68,8 +68,8 @@ session_start();
 
 		padding: 10px;
 		width: 100px;
-		color: white;
-		background-color: lightblue;
+		color: black;
+		background-color: white;
 		border: none;
 	}
 
